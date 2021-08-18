@@ -31,6 +31,8 @@ you can doenload the dataset directly into your notebook using the following com
             
 This image classification model predicts weither a given image is of a pizza or a steak .
 
-image to be predicted should be converted to tensor of shape (224,224,3) and an extra dimention needs to be added in 0th axis. it can be done by using expanddims in tensorflow .
+model is build on principles of Convolution and is popularly known as CNN(Convolutional Neural Networks)
+
+Image to be predicted should be converted to tensor of shape (224,224,3) and an extra dimention needs to be added in 0th axis. it can be done by using expanddims in tensorflow .
 
 overall model_1 performs great with accuracy of appx 89%. 
