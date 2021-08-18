@@ -1,6 +1,8 @@
 # pizza_steak_binary_classification_CNN
 
 This dataset is present in preprocessed form arranged in the following file structure:
+
+
            ` pizza_steak <- top level folder
             └───train <- training images
             │   └───pizza
